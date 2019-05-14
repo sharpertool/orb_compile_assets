@@ -1,0 +1,4 @@
+{
+  version: "2.1"
+  description: "Compile Assets for standard Django/wagtail project"
+}
